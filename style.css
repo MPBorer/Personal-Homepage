@@ -1,0 +1,32 @@
+*{
+    background-color: rgba(35, 196, 115, 0.459);
+}
+
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.headshot{
+    padding: 10px;
+    height: 25%;
+    width: 25%;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.link{
+    padding-right: 48px;
+}
+
+.language{
+    display: flex;
+    justify-content: space-between;
+}
+.img{
+    height: 50px;
+    width: 50px;
+}
