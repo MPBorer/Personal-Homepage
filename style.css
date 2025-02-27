@@ -9,6 +9,7 @@ p{
     text-align: center;
 }
 .headshot{
+    border-radius: 0 25px 0 25px;
     padding: 10px;
     height: 25%;
     width: 25%;
